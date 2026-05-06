@@ -1,0 +1,12 @@
+# 🎵 Sri Music Website
+
+Simple music streaming & download website built with HTML, CSS, JS.
+
+## Features
+- 🎧 Play songs
+- ⬇ Download songs
+- 🔎 Search songs
+- 📱 Simple UI
+
+## How to use
+Open index.html in browser or host on GitHub Pages.
