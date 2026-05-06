@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sri Music 🎵</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🎶 Sri Music</h1>
+  <p>Download & Play Your Favorite Songs</p>
+  <input type="text" id="search" placeholder="Search songs...">
+</header>
+
+<section class="container">
+
+  <div class="card">
+    <img src="images/cover1.jpg">
+    <h3>Song 1</h3>
+    <audio controls src="songs/song1.mp3"></audio>
+    <a href="songs/song1.mp3" download>⬇ Download</a>
+  </div>
+
+  <div class="card">
+    <img src="images/cover2.jpg">
+    <h3>Song 2</h3>
+    <audio controls src="songs/song2.mp3"></audio>
+    <a href="songs/song2.mp3" download>⬇ Download</a>
+  </div>
+
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
